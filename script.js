@@ -1,5 +1,6 @@
 
-var rapidAPIKey = 'c6064b5170msh977e24b1ae6c804p17fd8djsnf539fedd1d13';
+//replace your api key
+var rapidAPIKey ;
 var resultObject;
 
 //converts image to base 64
